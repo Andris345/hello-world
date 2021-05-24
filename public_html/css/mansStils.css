@@ -1,0 +1,9 @@
+
+body {
+background-image: url("sky.jpg");
+color: #000000;
+}
+p {
+font: 15px arial, sans-serif;
+color: blue;
+}
